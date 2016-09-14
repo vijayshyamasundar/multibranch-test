@@ -6,6 +6,6 @@ node{
     stage 'build code from develop branch'
     echo 'building the application'
     stage 'deploy'
-    echo 'deploying the application'
+    echo 'deploying the application from develop branch'
     
 }
