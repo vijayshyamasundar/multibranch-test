@@ -7,6 +7,6 @@ node{
     stage 'build from master'
     echo 'building the application from master'
     stage 'deploy'
-    echo 'deploying the application'
+    echo 'deploying the application from master'
     
 }
