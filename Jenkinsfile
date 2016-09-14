@@ -7,5 +7,6 @@ node{
     echo 'building the application'
     stage 'deploy'
     echo 'deploying the application from develop branch'
+    echo 'deployment completed successfully'
     
 }
