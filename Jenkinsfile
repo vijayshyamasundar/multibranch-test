@@ -1,7 +1,7 @@
 node{
     
     
-    stage 'checkout source code from master'
+    stage 'checkout source code from master...'
     echo 'checking out code from master'
     checkout scm
     stage 'build from master'
